@@ -1,3 +1,4 @@
 CS_520_Project
 
-Implementation of A* Algorithms
+1. Implemented different kinds of A* search algorithms like forward A*, adaptive A*, and backward A* in a generated acyclic maze to find a path from randomly generated source to destination.
+2. Analysed the performance of algorithms based on the number of calls, the number of nodes expanded and the time taken to reach the destination.
